@@ -2,6 +2,7 @@
 
 put some stuff - all data for the project
 Generative_AI_Research_48730206
+'''
 ├─ Additional Materials
 │   ├─ Fig1.png
 │   └─ Fig2.png
@@ -31,3 +32,4 @@ Generative_AI_Research_48730206
 ├─ Final Thesis.docx
 ├─ Final Thesis Submitted.pdf
 └─ README.md
+'''
