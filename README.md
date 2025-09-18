@@ -36,4 +36,12 @@ Generative_AI_Research_48730206
 ├─ Final Thesis.docx
 ├─ Final Thesis Submitted.pdf
 └─ README.md
+## Branch Structure
+
+- **main**: Stores the stable version; all changes must be reviewed before merging.  
+- **literature**: Contains literature review documents.  
+- **quant-analysis**: Contains survey data and quantitative analysis scripts.  
+- **qual-analysis**: Contains interview transcripts and qualitative analysis files.  
+- **drafts-reports**: Contains proposals, drafts, and final thesis documents.  
+- **assets**: Contains figures, photos, and supplementary materials.  
 
