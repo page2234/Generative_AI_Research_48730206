@@ -1,24 +1,33 @@
 # AI_Research
 
 put some stuff - all data for the project
-## Repository Structure
-
-- **Literature Review documents/**  
-  Contains journal papers, conference articles, books, and news sources.  
-
-- **Quantitative Analysis/**  
-  Includes survey data, CSV/Excel files, Python scripts, and analysis reports.  
-
-- **Qualitative Analysis/**  
-  Holds interview transcripts, protocols, consent forms, and qualitative analysis outputs (e.g., visualisations).  
-
-- **Drafts and Reports/**  
-  Stores draft research proposals, conference papers, and final reports.  
-
-- **Additional Materials/**  
-  Contains information sheets, photos, and other supporting media.  
-
-- **Final Proposal.docx** – Draft project proposal  
-- **Final Thesis.docx** – Final thesis document (Word version)  
-- **Final Thesis Submitted.pdf** – Final thesis (submitted PDF version)  
-- **README.md** – Repository overview and collaboration guidelines  
+Generative_AI_Research_48730206
+├─ Additional Materials
+│   ├─ Fig1.png
+│   └─ Fig2.png
+│
+├─ Drafts and Reports
+│   └─ proposal_draft_version_one.docx
+│
+├─ Literature Review documents
+│   ├─ Academic Non-Fiction.pdf
+│   ├─ An Inquiry Into the Use of Generative.pdf
+│   └─ Computers and Education Open.pdf
+│
+├─ Qualitative Analysis
+│   ├─ interview1 Eric.docx
+│   ├─ interview2 Jason.docx
+│   └─ interview3 final.docx
+│
+├─ Quantitative Analysis
+│   ├─ data1.csv
+│   ├─ data2.csv
+│   ├─ data3.csv
+│   ├─ Survey.docx
+│   ├─ testing.py
+│   └─ Score changes.png
+│
+├─ Final Proposal.docx
+├─ Final Thesis.docx
+├─ Final Thesis Submitted.pdf
+└─ README.md
