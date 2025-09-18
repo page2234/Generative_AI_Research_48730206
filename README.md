@@ -1,8 +1,12 @@
 # AI_Research
 
 put some stuff - all data for the project
+## Repository Structure
+
+The project repository is organised into clear folders for literature, data, reports, and supporting materials.  
+
+```plaintext
 Generative_AI_Research_48730206
-'''
 ├─ Additional Materials
 │   ├─ Fig1.png
 │   └─ Fig2.png
@@ -32,4 +36,4 @@ Generative_AI_Research_48730206
 ├─ Final Thesis.docx
 ├─ Final Thesis Submitted.pdf
 └─ README.md
-'''
+
